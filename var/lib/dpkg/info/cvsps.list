@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/bin
+/usr/bin/cvsps
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/cvsps.1.gz
+/usr/share/doc
+/usr/share/doc/cvsps
+/usr/share/doc/cvsps/README.gz
+/usr/share/doc/cvsps/changelog.gz
+/usr/share/doc/cvsps/changelog.Debian.gz
+/usr/share/doc/cvsps/copyright

@@ -1,0 +1,16 @@
+714151f39dc83998634a2d15a95f7125  usr/lib/x86_64-linux-gnu/perl5/5.20/DateTime.pm
+96cdef32c5569fb615ffce69804175d5  usr/lib/x86_64-linux-gnu/perl5/5.20/DateTime/Duration.pm
+d151e2d2a7953abfdbb235841b9b26d0  usr/lib/x86_64-linux-gnu/perl5/5.20/DateTime/Helpers.pm
+29285236eb318f6b78470ed4e666f5a2  usr/lib/x86_64-linux-gnu/perl5/5.20/DateTime/Infinite.pm
+502de4317ad8dcdf2693f9bcf0560004  usr/lib/x86_64-linux-gnu/perl5/5.20/DateTime/LeapSecond.pm
+938b5ab819f89d9c3f59613191fe0865  usr/lib/x86_64-linux-gnu/perl5/5.20/DateTimePP.pm
+3c6e6c871d8a457aa2800ac632c71cf1  usr/lib/x86_64-linux-gnu/perl5/5.20/DateTimePPExtra.pm
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/x86_64-linux-gnu/perl5/5.20/auto/DateTime/DateTime.bs
+3f16dc637d46c98a9a33bd2b2e648283  usr/lib/x86_64-linux-gnu/perl5/5.20/auto/DateTime/DateTime.so
+4a399c7e3f1cdcc50c461aebbc9a9f6e  usr/share/doc/libdatetime-perl/changelog.Debian.gz
+5b316ff34273fc5b5cb85df1d8b0998d  usr/share/doc/libdatetime-perl/changelog.gz
+98caec988daa217db4efc3c535b9078f  usr/share/doc/libdatetime-perl/copyright
+f45fad530469d6902f0ee1f006246391  usr/share/man/man3/DateTime.3pm.gz
+c19c3f293e294a04d3a8e4d1b57b1bb2  usr/share/man/man3/DateTime::Duration.3pm.gz
+dec057c2dab19fc19f41128886867757  usr/share/man/man3/DateTime::Infinite.3pm.gz
+81ed102061becc7573f640c15c785e19  usr/share/man/man3/DateTime::LeapSecond.3pm.gz

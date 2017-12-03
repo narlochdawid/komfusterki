@@ -1,0 +1,5 @@
+9460aabd978d764578e7848a20ef24ee  usr/share/doc/libdatetime-format-strptime-perl/changelog.Debian.gz
+dab45cb54ac969fafc0640ef1d8870ed  usr/share/doc/libdatetime-format-strptime-perl/changelog.gz
+e64c32ccd8357dd953ab0765d9baab12  usr/share/doc/libdatetime-format-strptime-perl/copyright
+5de99d5994409f26fb6526ce6f6b664c  usr/share/man/man3/DateTime::Format::Strptime.3pm.gz
+8c5a7494e42218dbde50cb70773a353a  usr/share/perl5/DateTime/Format/Strptime.pm

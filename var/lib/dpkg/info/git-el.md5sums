@@ -1,0 +1,8 @@
+670c4eea21c0372f6d1a3399b77543bf  etc/emacs/site-start.d/50git-core.el
+89c864c00b758a59cd18981340cacef0  usr/share/git-core/emacs/git-blame.el
+d6e3f3b0cda6f601773e8b60c90b5091  usr/share/git-core/emacs/git.el
+709021cea9a9215461a7b1b10fda99b8  usr/share/doc/git-el/copyright
+6dba0e9a0c98c52832c82321b11038fd  usr/share/doc/git-el/changelog.Debian.gz
+2a116ef28931f71ab1a432a6c0a1a8b5  usr/share/doc/git-el/changelog.gz
+2a4f2397c8c295d8dd7940e9af28a1a2  usr/lib/emacsen-common/packages/install/git
+0eecdd115012b12ff672729601ff2725  usr/lib/emacsen-common/packages/remove/git

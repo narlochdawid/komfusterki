@@ -1,0 +1,16 @@
+c1dbfcef866d216e6c0160f4b6b29279  usr/share/doc/libjson-perl/NEWS.Debian.gz
+aea9cefc665669c618e080d33c171567  usr/share/doc/libjson-perl/changelog.Debian.gz
+7540409ed1e30045ceba9d3ed978fdde  usr/share/doc/libjson-perl/changelog.gz
+adce88eb78d37311a515896937c658f2  usr/share/doc/libjson-perl/copyright
+47f979cac9c45a9132a28401aa9631b8  usr/share/doc/libjson-perl/examples/bench_decode.pl
+7c07b4b6b68c02122ff964c052863958  usr/share/doc/libjson-perl/examples/bench_encode.pl
+86da3c8e86f82dad5f6e2ce0a5334e55  usr/share/man/man3/JSON.3pm.gz
+ce6d11f30e0c35b6cf1d8a266151be8f  usr/share/man/man3/JSON::backportPP.3pm.gz
+3a69292b37ce5c791e9a6e1833600ba1  usr/share/man/man3/JSON::backportPP::Boolean.3pm.gz
+b7540e38146a2ec363ddfe7bf78ed461  usr/share/man/man3/JSON::backportPP::Compat5005.3pm.gz
+18224b84501372639aa7678ca71d6e64  usr/share/man/man3/JSON::backportPP::Compat5006.3pm.gz
+f4b4f40d9b1b65f516bd2d4bb80c98f7  usr/share/perl5/JSON.pm
+28b78de9b953069d6d55ee732ad6f36c  usr/share/perl5/JSON/backportPP.pm
+1474a460799cd4a9ceac439553f1a175  usr/share/perl5/JSON/backportPP/Boolean.pm
+38c1561ce1eb71fc60ea66e5215bd6ef  usr/share/perl5/JSON/backportPP/Compat5005.pm
+450695939124d98314f6a1b4e3c970d3  usr/share/perl5/JSON/backportPP/Compat5006.pm

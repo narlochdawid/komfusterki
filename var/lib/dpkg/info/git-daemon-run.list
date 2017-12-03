@@ -1,0 +1,15 @@
+/.
+/etc
+/etc/sv
+/etc/sv/git-daemon
+/etc/sv/git-daemon/run
+/etc/sv/git-daemon/log
+/etc/sv/git-daemon/log/run
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/git-daemon-run
+/usr/share/doc/git-daemon-run/copyright
+/usr/share/doc/git-daemon-run/changelog.Debian.gz
+/usr/share/doc/git-daemon-run/changelog.gz
+/usr/share/doc/git-daemon-run/README.Debian

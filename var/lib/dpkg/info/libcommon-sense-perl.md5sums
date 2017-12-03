@@ -1,0 +1,8 @@
+268b542a486e15d71b680614170c5cac  usr/lib/x86_64-linux-gnu/perl5/5.20/common/sense.pm
+8d57bbb2b3dbf449d95dc8059208781b  usr/lib/x86_64-linux-gnu/perl5/5.20/common/sense.pod
+919f89c3ebdf6d242d46152920e77f02  usr/share/doc/libcommon-sense-perl/changelog.Debian.amd64.gz
+0bb4e801944013e85bf544a1b4fad911  usr/share/doc/libcommon-sense-perl/changelog.Debian.gz
+4c43849989c2c375099035e075f05fee  usr/share/doc/libcommon-sense-perl/changelog.gz
+59ef0062edc49ae0d22314e2a05b4a38  usr/share/doc/libcommon-sense-perl/copyright
+fa85fa43113a854ef361eed3d46d764e  usr/share/lintian/overrides/libcommon-sense-perl
+d347f2a1b1751878dde6a1c76cc46286  usr/share/man/man3/common::sense.3pm.gz

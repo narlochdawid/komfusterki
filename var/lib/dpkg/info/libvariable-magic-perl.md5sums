@@ -1,0 +1,11 @@
+9f2e3411b04e5d8dc9d7c9f6a07d455c  usr/lib/x86_64-linux-gnu/perl5/5.20/Variable/Magic.pm
+b25144622ebe63c4be7c42c1c53f2ddc  usr/lib/x86_64-linux-gnu/perl5/5.20/auto/Variable/Magic/Magic.so
+55fcaf1797a3e451c95b90472d6d1406  usr/share/doc/libvariable-magic-perl/changelog.Debian.gz
+507a7497abb4b501d4e9f60a3a5d63d7  usr/share/doc/libvariable-magic-perl/changelog.gz
+40591d72832e08ea0f80a8f7b6df2521  usr/share/doc/libvariable-magic-perl/copyright
+65b1c9707e75cf1e9b6acc6db63fd9e1  usr/share/doc/libvariable-magic-perl/examples/copy.pl
+e50c31ed3c08383b1494dbcee4bb6620  usr/share/doc/libvariable-magic-perl/examples/magic.pl
+6e400ded69980edb4b9d965ce13e0b2d  usr/share/doc/libvariable-magic-perl/examples/synopsis.pl
+8ed9570b5ecf35713a69b81c801e46d0  usr/share/doc/libvariable-magic-perl/examples/uvar.pl
+717063274c1b7137b635afda13377c71  usr/share/doc/libvariable-magic-perl/examples/vm_vs_tie.pl
+887c179e61f7e75b05b3f1db96153904  usr/share/man/man3/Variable::Magic.3pm.gz

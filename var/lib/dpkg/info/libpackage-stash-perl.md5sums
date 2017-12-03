@@ -1,0 +1,8 @@
+971d94eb51443789bd259203eb495693  usr/share/doc/libpackage-stash-perl/NEWS.Debian.gz
+6a2c35de226f8bca41c96afcd0dded16  usr/share/doc/libpackage-stash-perl/changelog.Debian.gz
+54636c2a4993ae39d9e12a6062c93c1a  usr/share/doc/libpackage-stash-perl/changelog.gz
+88eae18cddd8d16e36c876ace4a4d66b  usr/share/doc/libpackage-stash-perl/copyright
+f03841052e6a9e2a25f67095e1be05ef  usr/share/man/man3/Package::Stash.3pm.gz
+643d4a6384de1e711cc4f394378b786e  usr/share/man/man3/Package::Stash::PP.3pm.gz
+e40c05afed4074ecb0455b05316523e8  usr/share/perl5/Package/Stash.pm
+f6bca7996a485b77fdfcd8a14abbcd0b  usr/share/perl5/Package/Stash/PP.pm

@@ -1,0 +1,9 @@
+1fd95a9144444dca34fef931d0d85a06  etc/gitweb.conf
+4236838a5cbdde83a937944575ea2e1e  etc/apache2/conf-available/gitweb.conf
+c2cdf11eaa4f187a52a2306004de6116  usr/share/doc/gitweb/NEWS.Debian.gz
+709021cea9a9215461a7b1b10fda99b8  usr/share/doc/gitweb/copyright
+d45eaa92cbfb27e1b3288b1aa54c13a9  usr/share/doc/gitweb/changelog.Debian.gz
+f458b459069b00ad662892054be54975  usr/share/doc/gitweb/changelog.gz
+817864ae11967d638c7d36c8b7e34a23  usr/share/doc/gitweb/examples/index.aux-generation
+b770647bbc34d28787b2e4a1a459c79a  usr/share/doc/gitweb/README.Debian
+8843bc242ead978c0a08e89fde1b20f2  usr/share/doc/gitweb/README

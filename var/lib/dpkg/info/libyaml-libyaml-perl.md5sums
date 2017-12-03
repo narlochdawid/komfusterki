@@ -1,0 +1,9 @@
+476dbd86132284277bfd0b882663dceb  usr/lib/x86_64-linux-gnu/perl5/5.20/YAML/LibYAML.pm
+5300bcd0e6fa52229d649042f8c086c5  usr/lib/x86_64-linux-gnu/perl5/5.20/YAML/XS.pm
+7052ddc83aafc45d00019e2404e0ac07  usr/lib/x86_64-linux-gnu/perl5/5.20/YAML/XS/LibYAML.pm
+a852da3704fe30fb2bd102032307685e  usr/lib/x86_64-linux-gnu/perl5/5.20/auto/YAML/XS/LibYAML/LibYAML.so
+497e5caa78cd971f4f6af8ad5b36c8ac  usr/share/doc/libyaml-libyaml-perl/changelog.Debian.gz
+0ba6f23e449451ae306270380086689e  usr/share/doc/libyaml-libyaml-perl/changelog.gz
+df2505cf91700e4c2ba935cdcb07cc77  usr/share/doc/libyaml-libyaml-perl/copyright
+9c9db4c4361010aa2af0bb7d6a95f5a1  usr/share/man/man3/YAML::XS.3pm.gz
+e323471730bd7370fe21ec7db4815d3a  usr/share/man/man3/YAML::XS::LibYAML.3pm.gz

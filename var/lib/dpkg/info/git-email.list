@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/git-send-email.1.gz
+/usr/share/doc
+/usr/share/doc/git-email
+/usr/share/doc/git-email/copyright
+/usr/share/doc/git-email/changelog.Debian.gz
+/usr/share/doc/git-email/changelog.gz
+/usr/lib
+/usr/lib/git-core
+/usr/lib/git-core/git-send-email

@@ -1,0 +1,9 @@
+cb45f0ca87b7048cc92a0205b15e2fdd  usr/bin/emacs24-x
+5663b08e8b9cbb02c62eed43d13dd68b  usr/share/applications/emacs24.desktop
+593501773dfe68c26137b599f9426484  usr/share/doc/emacs24/README.Debian
+bc705682cfb19e7b59a87f0c20cad9a4  usr/share/doc/emacs24/changelog.Debian.gz
+06d0ce8408a7520670fa9f08827d13b8  usr/share/doc/emacs24/changelog.gz
+31106859b5798d77b67f407be5a42a90  usr/share/doc/emacs24/copyright
+bc0280a4d6386cb2399b0bb88697f79b  usr/share/emacs/24.4/etc/DOC
+7ab22db3e21e699cc15b2a1812586220  usr/share/lintian/overrides/emacs24
+fbef85cc4395011769e17ef249d233f4  usr/share/menu/emacs24

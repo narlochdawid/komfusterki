@@ -1,0 +1,9 @@
+1234809ca3674b23b13ca18a75e908c7  usr/bin/tla
+4b9e30581c31d081fb55a1cb05a08d31  usr/bin/tla-gpg-check
+68b824480762ecaaf759963ee618345f  usr/share/doc/tla/AUTHORS
+4392a559203888aff4cf76a1202b6def  usr/share/doc/tla/README.gz
+9a529518b5ec61391ef85620188c250b  usr/share/doc/tla/changelog.Debian.gz
+0b0e6981a3f60c62cd2c90cad4d40e53  usr/share/doc/tla/changelog.gz
+83b648c41e9254d0f28f160d7e01e7ec  usr/share/doc/tla/copyright
+2f079fa5eaa4e647d8616800740919ad  usr/share/man/man1/tla-gpg-check.1.gz
+4513f461af1c307ad6eb26b9d5cc9610  usr/share/man/man1/tla.1.gz

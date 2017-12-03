@@ -1,0 +1,13 @@
+43153b1e6a1a8161bd1f4912ce95bbef  bin/checkpassword
+d0e4c438450685cba3f5c160d581c6c4  bin/fgetty-login2
+0b8ba57d6ecb2179026fec66d57bcc2e  bin/fgetty-login
+7ebe580acddf0b55dacbdeed828fd162  sbin/fgetty
+bb45c34e6ff6ddccfd64eaac484c7c5b  usr/share/lintian/overrides/fgetty
+cf5f59082148a68437ca11b5fc481d51  usr/share/doc/fgetty/README
+ee3d0993d9664bd76b675aa4ba843314  usr/share/doc/fgetty/copyright
+d8edba01d8102d3663eb50e85a921f86  usr/share/doc/fgetty/interface.html
+561d078d29a633c63cfe6d8e2cfeec74  usr/share/doc/fgetty/README.Debian
+03f212899d709d973e230281b52079fe  usr/share/doc/fgetty/changelog.Debian.gz
+7df931821e178123151191d1bc6eab1e  usr/share/doc/fgetty/changelog.gz
+ac184f2910ffa2162c66297883fc05e3  usr/share/man/man8/fgetty.8.gz
+3cec4afc477d0342d24cd912ccce0a13  usr/share/man/man8/checkpassword.8.gz

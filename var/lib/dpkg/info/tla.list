@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/bin/tla-gpg-check
+/usr/bin/tla
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/tla-gpg-check.1.gz
+/usr/share/man/man1/tla.1.gz
+/usr/share/doc
+/usr/share/doc/tla
+/usr/share/doc/tla/changelog.gz
+/usr/share/doc/tla/copyright
+/usr/share/doc/tla/changelog.Debian.gz
+/usr/share/doc/tla/AUTHORS
+/usr/share/doc/tla/README.gz

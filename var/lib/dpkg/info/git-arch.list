@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/git-archimport.1.gz
+/usr/share/doc
+/usr/share/doc/git-arch
+/usr/share/doc/git-arch/copyright
+/usr/share/doc/git-arch/changelog.Debian.gz
+/usr/share/doc/git-arch/changelog.gz
+/usr/lib
+/usr/lib/git-core
+/usr/lib/git-core/git-archimport

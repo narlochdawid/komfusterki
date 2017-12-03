@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/perl5
+/usr/share/perl5/Git
+/usr/share/perl5/Git/Mediawiki.pm
+/usr/share/doc
+/usr/share/doc/git-mediawiki
+/usr/share/doc/git-mediawiki/copyright
+/usr/share/doc/git-mediawiki/changelog.Debian.gz
+/usr/share/doc/git-mediawiki/changelog.gz
+/usr/share/doc/git-mediawiki/git-remote-mediawiki.txt
+/usr/lib
+/usr/lib/git-core
+/usr/lib/git-core/git-mw
+/usr/lib/git-core/git-remote-mediawiki

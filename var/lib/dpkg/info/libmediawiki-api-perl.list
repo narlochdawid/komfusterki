@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/share
+/usr/share/man
+/usr/share/man/man3
+/usr/share/man/man3/MediaWiki::API.3pm.gz
+/usr/share/perl5
+/usr/share/perl5/MediaWiki
+/usr/share/perl5/MediaWiki/API.pm
+/usr/share/doc
+/usr/share/doc/libmediawiki-api-perl
+/usr/share/doc/libmediawiki-api-perl/changelog.Debian.gz
+/usr/share/doc/libmediawiki-api-perl/copyright
+/usr/share/doc/libmediawiki-api-perl/changelog.gz

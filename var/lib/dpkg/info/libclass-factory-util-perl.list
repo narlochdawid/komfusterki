@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libclass-factory-util-perl
+/usr/share/doc/libclass-factory-util-perl/copyright
+/usr/share/doc/libclass-factory-util-perl/changelog.gz
+/usr/share/doc/libclass-factory-util-perl/changelog.Debian.gz
+/usr/share/man
+/usr/share/man/man3
+/usr/share/man/man3/Class::Factory::Util.3pm.gz
+/usr/share/perl5
+/usr/share/perl5/Class
+/usr/share/perl5/Class/Factory
+/usr/share/perl5/Class/Factory/Util.pm

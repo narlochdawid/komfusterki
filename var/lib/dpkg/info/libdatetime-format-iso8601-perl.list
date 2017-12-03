@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libdatetime-format-iso8601-perl
+/usr/share/doc/libdatetime-format-iso8601-perl/copyright
+/usr/share/doc/libdatetime-format-iso8601-perl/changelog.gz
+/usr/share/doc/libdatetime-format-iso8601-perl/changelog.Debian.gz
+/usr/share/perl5
+/usr/share/perl5/DateTime
+/usr/share/perl5/DateTime/Format
+/usr/share/perl5/DateTime/Format/ISO8601.pm
+/usr/share/perl5/DateTime/Format/ISO8601.pod
+/usr/share/man
+/usr/share/man/man3
+/usr/share/man/man3/DateTime::Format::ISO8601.3pm.gz
